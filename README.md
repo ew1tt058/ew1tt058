@@ -1,4 +1,4 @@
-![Header](https://github.com/ew1tt058/ew1tt058/blob/slomali/assetsss/Screenshot_2.png) <!-- ssilku na rezume potom -->
+![Header](https://github.com/ew1tt058/ew1tt058/blob/main/assetsss/Screenshot_2.png ) <!-- ssilku na rezume potom -->
 
 ## Front-end development
 
@@ -13,7 +13,6 @@
 ### Frameworks & Libraries
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 
 ### OS
 
@@ -33,4 +32,4 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xu3x2)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/illia_tykhon/)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25705761/illya-tykhon)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/shyrokovartem)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/ew1tt)
