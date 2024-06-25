@@ -1,4 +1,4 @@
-![Header](assetsss/Screenshot_2.png) <!-- ssilku na rezume potom -->
+![Header](https://github.com/ew1tt058/ew1tt058/blob/slomali/assetsss/Screenshot_2.png) <!-- ssilku na rezume potom -->
 
 ## Front-end development
 
@@ -29,8 +29,8 @@
 
 ### Follow me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-shyrokov/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xu3x1)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r1xes.n/)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25696096/artem-shyrokov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/illya-tykhon/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xu3x2)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/illia_tykhon/)
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25705761/illya-tykhon)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/shyrokovartem)
