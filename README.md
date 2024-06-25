@@ -1,4 +1,4 @@
-![Header](https://github.com/Kabuto43/Kabuto43/blob/main/assets/frame.png) <!-- ssilku na rezume potom -->
+![Header](assetsss/Screenshot_2.png) <!-- ssilku na rezume potom -->
 
 ## Front-end development
 
